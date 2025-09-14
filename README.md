@@ -30,9 +30,9 @@ I'm a passionate developer from Mumbai, India, with a love for building innovati
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=vscodium&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-0DBF43?style=flat-square&logo=pycharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-0DBF43?style=flat-square&logo=pycharm&logoColor=black)
 ![IntelliJ Idea](https://img.shields.io/badge/-IntellijIdea-870DBF?style=flat-square&logo=intellijidea&logoColor=white)
-![Webstorm](https://img.shields.io/badge/-Webstorm-96BF0D?style=flat-square&logo=webstorm&logoColor=white)
+![Webstorm](https://img.shields.io/badge/-Webstorm-96BF0D?style=flat-square&logo=webstorm&logoColor=black)
 
 ## 🔥 Featured Projects
 
